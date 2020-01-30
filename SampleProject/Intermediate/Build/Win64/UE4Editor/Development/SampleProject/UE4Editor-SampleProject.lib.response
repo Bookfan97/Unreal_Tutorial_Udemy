@@ -7,8 +7,12 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\SampleProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\MainCharacter.cpp.obj"
+"D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\MyObject.cpp.obj"
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\SampleProject.cpp.obj"
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\SampleProjectGameModeBase.cpp.obj"
+"D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\MainCharacter.gen.cpp.obj"
+"D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\MyObject.gen.cpp.obj"
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\SampleProject.init.gen.cpp.obj"
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\SampleProjectGameModeBase.gen.cpp.obj"
 "D:\GitHub\Unreal_Tutorial_Udemy\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\Default.rc2.res"
